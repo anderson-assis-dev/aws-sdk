@@ -11,5 +11,5 @@ async function main(){
     }))
     console.log(s3)
 }
-
+main()
 
